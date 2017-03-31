@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="backspark:test" external.linked.project.path="$MODULE_DIR$/../../backspark" external.root.project.path="$MODULE_DIR$/../../backspark" external.system.id="GRADLE" external.system.module.group="backspark" external.system.module.type="sourceSet" external.system.module.version="0.0.01-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../backspark/build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../backspark/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../backspark/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../backspark/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="backspark_main" />
+    <orderEntry type="library" name="Gradle: com.sparkjava:spark-core:2.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-simple:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.mongodb.morphia:morphia:1.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.mindrot:jbcrypt:0.3m" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.13" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-server:9.3.6.v20151106" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-webapp:9.3.6.v20151106" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-server:9.3.6.v20151106" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-servlet:9.3.6.v20151106" level="project" />
+    <orderEntry type="library" name="Gradle: org.mongodb:mongo-java-driver:3.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: cglib:cglib-nodep:2.2.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.thoughtworks.proxytoys:proxytoys:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-core:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-core:sources:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-api-mockito:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-api-mockito:sources:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-module-junit4-common:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-module-junit4-common:sources:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-module-junit4:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-module-junit4:sources:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-module-junit4-legacy:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-module-junit4-legacy:sources:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-module-junit3:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-module-junit3:sources:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-reflect:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-reflect:sources:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-api-support:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-api-support:sources:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-module-testng:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-module-testng:sources:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-module-testng-common:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-classloading-base:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.powermock:powermock-classloading-base:sources:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-http:9.3.6.v20151106" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-io:9.3.6.v20151106" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-xml:9.3.6.v20151106" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-servlet:9.3.6.v20151106" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-common:9.3.6.v20151106" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-client:9.3.6.v20151106" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-api:9.3.6.v20151106" level="project" />
+    <orderEntry type="library" name="Gradle: org.javassist:javassist:3.18.1-GA" level="project" />
+    <orderEntry type="library" name="Gradle: org.mockito:mockito-all:1.9.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.objenesis:objenesis:2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.testng:testng:6.8.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-util:9.3.6.v20151106" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-security:9.3.6.v20151106" level="project" />
+    <orderEntry type="library" name="Gradle: org.beanshell:bsh:2.0b4" level="project" />
+    <orderEntry type="library" name="Gradle: com.beust:jcommander:1.27" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.12" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.9" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="backspark_main" />
+</module>

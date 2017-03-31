@@ -1,0 +1,4 @@
+# true if runing in dev mode
+isDev=true
+
+mongoUri=mongodb://127.0.0.1/thpwa
