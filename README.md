@@ -1,5 +1,4 @@
-# Treasure Hunt PWA
-A Treasure Hunt Orogressive Web App (PWA) Built with [Vue](https://vuejs.org/) and [Spark](http://sparkjava.com/)
+## Boiler Plate for creating a Vue.js project backed by Spark Java
 
 
 ### Building
